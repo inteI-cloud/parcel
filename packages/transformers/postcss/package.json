@@ -25,7 +25,7 @@
     "css-modules-loader-core": "^1.1.0",
     "nullthrows": "^1.1.1",
     "postcss-value-parser": "^4.1.0",
-    "semver": "^5.4.1"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "postcss": "^8.0.5"
