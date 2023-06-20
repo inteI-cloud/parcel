@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "read-pkg-up": "^5.0.0"
+    "read-pkg-up": "^8.0.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.12.1",
