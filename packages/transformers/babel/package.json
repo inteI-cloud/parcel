@@ -35,7 +35,7 @@
     "browserslist": "^4.6.6",
     "core-js": "^3.2.1",
     "nullthrows": "^1.1.1",
-    "semver": "^5.7.0"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@parcel/types": "2.0.0-beta.1"
