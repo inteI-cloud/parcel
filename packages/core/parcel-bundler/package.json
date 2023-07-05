@@ -23,7 +23,7 @@
     "@babel/plugin-transform-flow-strip-types": "^7.4.4",
     "@babel/plugin-transform-modules-commonjs": "^7.4.4",
     "@babel/plugin-transform-react-jsx": "^7.0.0",
-    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-env": "^7.22.6",
     "@babel/runtime": "^7.4.4",
     "@babel/template": "^7.4.4",
     "@babel/traverse": "^7.4.4",
