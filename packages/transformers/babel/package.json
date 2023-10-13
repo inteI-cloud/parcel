@@ -27,7 +27,7 @@
     "@babel/plugin-transform-typescript": "^7.4.5",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@babel/traverse": "^7.0.0",
+    "@babel/traverse": "^7.23.2",
     "@parcel/babel-ast-utils": "2.0.0-beta.1",
     "@parcel/babel-preset-env": "2.0.0-beta.1",
     "@parcel/plugin": "2.0.0-beta.1",
