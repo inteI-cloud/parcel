@@ -26,7 +26,7 @@
     "@babel/preset-env": "^7.4.4",
     "@babel/runtime": "^7.4.4",
     "@babel/template": "^7.4.4",
-    "@babel/traverse": "^7.4.4",
+    "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.4.4",
     "@iarna/toml": "^2.2.0",
     "@parcel/fs": "^1.11.0",
