@@ -33,7 +33,7 @@
     "@parcel/scope-hoisting": "2.0.0-beta.1",
     "@parcel/types": "2.0.0-beta.1",
     "@parcel/utils": "2.0.0-beta.1",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.6",
     "nullthrows": "^1.1.1",
     "semver": "^5.4.1"
   },
