@@ -51,7 +51,7 @@
     "fast-glob": "^2.2.2",
     "filesize": "^3.6.0",
     "get-port": "^3.2.0",
-    "htmlnano": "^0.2.2",
+    "htmlnano": "^2.0.0",
     "is-glob": "^4.0.0",
     "is-url": "^1.2.2",
     "js-yaml": "^3.10.0",
@@ -73,7 +73,7 @@
     "source-map": "0.6.1",
     "terser": "^3.7.3",
     "v8-compile-cache": "^2.0.0",
-    "ws": "^5.1.1"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
