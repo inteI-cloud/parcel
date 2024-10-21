@@ -23,10 +23,10 @@
   "dependencies": {
     "@parcel/plugin": "2.0.0-beta.1",
     "@parcel/utils": "2.0.0-beta.1",
-    "serve-handler": "^6.0.0",
+    "serve-handler": "^6.1.6",
     "connect": "^3.7.0",
     "ejs": "^2.6.1",
-    "http-proxy-middleware": "^1.0.0",
+    "http-proxy-middleware": "^2.0.7",
     "nullthrows": "^1.1.1",
     "ws": "^7.0.0"
   },
